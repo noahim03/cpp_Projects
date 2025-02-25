@@ -1,4 +1,4 @@
-//Noah Im ID:923109389
+
 #include "Airplane.h"
 #include "Airline.h"
 #include <iostream>
