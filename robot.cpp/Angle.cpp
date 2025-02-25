@@ -1,4 +1,4 @@
-//Noah Im ID:923109389
+
 
 #include <iostream>
 #include "Angle.h"
